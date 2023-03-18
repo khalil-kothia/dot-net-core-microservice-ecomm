@@ -1,2 +1,2 @@
-# dot-net-core-microservice-ecomm
-Microservice Based Dot Net Core E-Commerce Application
+# dot-net-mvc-microservice-ecommerce
+Production Ready Microservice-based E-Commerce .Net Core Application
